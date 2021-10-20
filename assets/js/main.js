@@ -18,7 +18,7 @@ btnPlus.innerHTML = "+";
 
 counter.append(counterValue);
 counterValue.setAttribute('id','counter-value');
-counterValue.innerHTML = "0";
+counterValue.innerHTML = 0;
 
 counter.append(btnMinus);
 btnMinus.setAttribute('id','minus');
@@ -42,9 +42,6 @@ offsetValue.setAttribute('value', '0');
 
 //set default offset undefined
 var offset = undefined;
-
-//Set start value to 0
-counterValue.innerHTML = 0;
 
 //var counter
 var count = 0;
