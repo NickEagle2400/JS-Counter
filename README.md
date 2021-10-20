@@ -14,11 +14,8 @@ Start2Impact - Javascript basic guide project
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -43,5 +40,5 @@ You can see and try the project here [www.nicolasricardi.com](https://www.nicola
 ## Contact
 
 Author: [Nicolas Ricardi](www.nicolasricardi.com) <br />
-Email: [info@nicolasricardi.com](mailto:info@nicolasricardi.com)
+Email: [info@nicolasricardi.com](mailto:info@nicolasricardi.com)<br />
 [LinkedIn](https://www.linkedin.com/in/nicolasricardi/) - [Twitter](https://twitter.com/nick_ricardi00)
