@@ -22,7 +22,16 @@ Start2Impact - Javascript basic guide project
   </ol>
 </details>
 
-## How it works
+## About The Project
+Simple javascript counter
+
+### Build With
+This project is build with javascript
+
+## Getting Started
+You can see and try the project here [www.nicolasricardi.com](https://www.nicolasricardi.com/project/js-counter)
+
+## Usage
 
  1. Set a offset value in the input field 
  2. Unfocus input field
@@ -31,8 +40,5 @@ Start2Impact - Javascript basic guide project
 
 *Note: The input field verifies that input value is a number. Otherwise, input value will be reset to '0' as default value.*
 
-## Responsive Design
-You can use my counter also on mobile & tablet.
+## Contact
 
-## Project Link
-https://www.nicolasricardi.com/project/js-counter
