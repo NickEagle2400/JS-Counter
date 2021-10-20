@@ -42,6 +42,6 @@ You can see and try the project here [www.nicolasricardi.com](https://www.nicola
 
 ## Contact
 
-Author: [Nicolas Ricardi](www.nicolasricardi.com)
+Author: [Nicolas Ricardi](www.nicolasricardi.com) <br />
 Email: [info@nicolasricardi.com](mailto:info@nicolasricardi.com)
 [LinkedIn](https://www.linkedin.com/in/nicolasricardi/) - [Twitter](https://twitter.com/nick_ricardi00)
