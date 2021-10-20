@@ -1,5 +1,5 @@
 # JS-Counter
-Start2Impact - Javascript basic guide project
+Start2Impact - Javascript basics guide project
 
 <details>
   <summary>Table of Contents</summary>
