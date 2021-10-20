@@ -41,10 +41,10 @@ offsetValue.setAttribute('name', 'offset-value');
 offsetValue.setAttribute('value', '0');
 
 //set default offset undefined
-var offset = undefined;
+let offset = undefined;
 
 //var counter
-var count = 0;
+let count = 0;
 
 //Add event listener
 btnPlus.addEventListener('click', add);
@@ -83,7 +83,7 @@ function reset(){
 
 //Set offset and update buttons value
 function setOffset(){
-    var temp = Number(offsetValue.value)
+    let temp = Number(offsetValue.value)
 
     if(!isNaN(temp)){
         offset = temp;
