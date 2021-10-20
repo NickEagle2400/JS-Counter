@@ -15,7 +15,7 @@ Start2Impact - Javascript basic guide project
 ## About The Project
 Simple javascript counter
 
-[![JS Counter Screenshot][www.nicolasricardi.com/assets/images/appcounter.png]](https://www.nicolasricardi.com/project/js-counter)
+[![JS Counter Screenshot](www.nicolasricardi.com/assets/images/appcounter.png)](https://www.nicolasricardi.com/project/js-counter)
 
 ## Built With
 This project is built with javascript
