@@ -4,15 +4,9 @@ Start2Impact - Javascript basic guide project
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -22,7 +16,9 @@ Start2Impact - Javascript basic guide project
 ## About The Project
 Simple javascript counter
 
-### Built With
+[![JS Counter Screenshot][assets/images/app.png]](https://www.nicolasricardi.com/project/js-counter)
+
+## Built With
 This project is built with javascript
 
 ## Getting Started
